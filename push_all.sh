@@ -1,14 +1,13 @@
 #!/bin/bash
 # push_all.sh - automatically add, commit, and 
-# push to GitHub Check if commit message was 
-# provided
-if [ -z "$1" ]; then echo "Usage: ./push_all.sh 
-  \"Your commit message\"" exit 1
-fi
+# push to GitHub Adds date/time to commit 
+# message automatically Get current date and 
+# time
+NOW=$(date +"%Y-%m-%d %H:%M:%S")
 # Add all changes
 git add .
-# Commit with provided message
-git commit -m "$1"
-# Push to the main branch
+# Commit with automatic message
+git commit -m "Automatic update: $NOW"
+# Push to main branch
 git push origin main
-echo "✅ Changes pushed to GitHub!"
+echo "✅ Changes pushed to GitHub with timestamp: $NOW"
