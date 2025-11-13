@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?> <svg 
+xmlns="http://www.w3.org/2000/svg" 
+width="512" height="512" viewBox="0 0 512 
+512">
+  <!-- blue circle background --> <rect 
+  width="512" height="512" rx="64" ry="64" 
+  fill="#0044cc"/> <!-- simple stylized 
+  white airplane --> <g 
+  transform="translate(0,20) scale(1.0)" 
+  fill="#ffffff">
+    <path d="M256 96c-6 0-12 3-16 7l-72 
+    56-88 24c-8 2-12 11-8 18 2 6 8 10 14 
+    10l92-12 76 56-24 88c-2 8 2 16 10 18 3 
+    1 6 1 9 1 5 0 10-2 14-6l56-60 96 6c7 0 
+    13-5 15-12 2-7-1-14-7-17l-96-44 
+    48-72c4-6 3-14-2-19-5-6-13-7-19-3l-68 
+    44-32-52c-4-8-13-12-22-12z"/>
+  </g>
+</svg>

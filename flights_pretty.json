@@ -1,0 +1,304 @@
+{
+  "flights": [
+    {
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "time": "08:47",
+      "price": 179
+    },
+    {
+      "from": "Mombasa",
+      "to": "Kisumu",
+      "time": "20:05",
+      "price": 82
+    },
+    {
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "time": "16:13",
+      "price": 138
+    },
+    {
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "time": "20:58",
+      "price": 141
+    },
+    {
+      "from": "Kisumu",
+      "to": "Nairobi",
+      "time": "09:37",
+      "price": 185
+    },
+    {
+      "from": "Kisumu",
+      "to": "Mombasa",
+      "time": "10:17",
+      "price": 154
+    },
+    {
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "time": "16:29",
+      "price": 120
+    },
+    {
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "time": "06:27",
+      "price": 168
+    },
+    {
+      "from": "Mombasa",
+      "to": "Kisumu",
+      "time": "07:04",
+      "price": 210
+    },
+    {
+      "from": "Mombasa",
+      "to": "Kisumu",
+      "time": "17:07",
+      "price": 224
+    },
+    {
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "time": "15:21",
+      "price": 210
+    },
+    {
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "time": "14:37",
+      "price": 134
+    },
+    {
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "time": "19:18",
+      "price": 242
+    },
+    {
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "time": "11:23",
+      "price": 99
+    },
+    {
+      "from": "Mombasa",
+      "to": "Nairobi",
+      "time": "19:16",
+      "price": 224
+    },
+    {
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "time": "15:38",
+      "price": 158
+    },
+    {
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "time": "11:35",
+      "price": 110
+    },
+    {
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "time": "11:09",
+      "price": 220
+    },
+    {
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "time": "21:05",
+      "price": 115
+    },
+    {
+      "from": "Mombasa",
+      "to": "Kisumu",
+      "time": "18:33",
+      "price": 148
+    },
+    {
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "time": "18:31",
+      "price": 235
+    },
+    {
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "time": "20:53",
+      "price": 116
+    },
+    {
+      "from": "Mombasa",
+      "to": "Kisumu",
+      "time": "07:19",
+      "price": 114
+    },
+    {
+      "from": "Kisumu",
+      "to": "Mombasa",
+      "time": "21:50",
+      "price": 112
+    },
+    {
+      "from": "Mombasa",
+      "to": "Kisumu",
+      "time": "13:45",
+      "price": "$200"
+    },
+    {
+      "from": "Kisumu",
+      "to": "Mombasa",
+      "time": "21:05",
+      "price": "$120"
+    },
+    {
+      "from": "Kisumu",
+      "to": "Eldoret",
+      "time": "13:45",
+      "price": "$250"
+    },
+    {
+      "from": "Eldoret",
+      "to": "Mombasa",
+      "time": "16:20",
+      "price": "$220"
+    },
+    {
+      "from": "Eldoret",
+      "to": "Kisumu",
+      "time": "18:50",
+      "price": "$120"
+    },
+    {
+      "from": "Nairobi",
+      "to": "Eldoret",
+      "time": "21:05",
+      "price": "$220"
+    },
+    {
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "time": "21:05",
+      "price": "$300"
+    },
+    {
+      "from": "Eldoret",
+      "to": "Kisumu",
+      "time": "16:20",
+      "price": "$100"
+    },
+    {
+      "from": "Eldoret",
+      "to": "Mombasa",
+      "time": "09:30",
+      "price": "$200"
+    },
+    {
+      "from": "Mombasa",
+      "to": "Kisumu",
+      "time": "09:30",
+      "price": "$220"
+    },
+    {
+      "from": "Kisumu",
+      "to": "Nairobi",
+      "time": "16:20",
+      "price": "$250"
+    },
+    {
+      "from": "Eldoret",
+      "to": "Mombasa",
+      "time": "18:50",
+      "price": "$100"
+    },
+    {
+      "from": "Eldoret",
+      "to": "Mombasa",
+      "time": "18:50",
+      "price": "$200"
+    },
+    {
+      "from": "Mombasa",
+      "to": "Nairobi",
+      "time": "16:20",
+      "price": "$200"
+    },
+    {
+      "from": "Mombasa",
+      "to": "Nairobi",
+      "time": "09:30",
+      "price": "$220"
+    },
+    {
+      "from": "Kisumu",
+      "to": "Eldoret",
+      "time": "09:30",
+      "price": "$250"
+    },
+    {
+      "from": "Mombasa",
+      "to": "Nairobi",
+      "time": "11:15",
+      "price": "$220"
+    },
+    {
+      "from": "Nairobi",
+      "to": "Eldoret",
+      "time": "18:50",
+      "price": "$100"
+    },
+    {
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "time": "18:50",
+      "price": "$120"
+    },
+    {
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "time": "07:00",
+      "price": "$150"
+    },
+    {
+      "from": "Kisumu",
+      "to": "Mombasa",
+      "time": "09:30",
+      "price": "$250"
+    },
+    {
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "time": "09:30",
+      "price": "$200"
+    },
+    {
+      "from": "Mombasa",
+      "to": "Kisumu",
+      "time": "21:05",
+      "price": "$250"
+    },
+    {
+      "from": "Mombasa",
+      "to": "Nairobi",
+      "time": "07:00",
+      "price": "$200"
+    },
+    {
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "time": "07:00",
+      "price": "$300"
+    },
+    {
+      "from": "Kisumu",
+      "to": "Nairobi",
+      "time": "18:50",
+      "price": "$220"
+    }
+  ]
+}

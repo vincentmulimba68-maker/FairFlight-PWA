@@ -1,0 +1,8 @@
+body{font-family:Arial;background:#f5f5f5;margin:0;padding:0;display:flex;justify-content:center;align-items:center;height:100vh;}
+h1,p{text-align:center;margin:5px 0;}
+label{display:block;margin-top:10px;}
+select,input[type="date"]{width:100%;padding:8px;margin-bottom:5px;border:1px solid #ccc;border-radius:5px;}
+button{width:100%;padding:10px;margin-top:10px;background:#0077ff;color:#fff;border:none;border-radius:5px;cursor:pointer;}
+button:hover{background:#005fcc;}
+#flightResults{margin-top:15px;font-size:16px;}
+.loading{font-style:italic;color:gray;}

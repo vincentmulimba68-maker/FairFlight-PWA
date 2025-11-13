@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FairFlight PWA v4.3</title>
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.json">
+</head>
+<body>
+<h1>FairFlight</h1>
+<p>Your flight made fair and easy.</p>
+
+<label>From:</label>
+<select id="from">
+<option value="">Select origin</option>
+<option value="Nairobi">Nairobi</option>
+<option value="Mombasa">Mombasa</option>
+<option value="Kisumu">Kisumu</option>
+</select>
+
+<label>To:</label>
+<select id="to">
+<option value="">Select destination</option>
+<option value="Mombasa">Mombasa</option>
+<option value="Nairobi">Nairobi</option>
+<option value="Kisumu">Kisumu</option>
+</select>
+
+<label>Date:</label>
+<input type="date" id="date">
+
+<label>Sort by:</label>
+<select id="sort">
+<option value="none">None</option>
+<option value="price">Price</option>
+<option value="departure">Departure</option>
+</select>
+
+<button id="checkFlightsBtn">Check Available Flights</button>
+<div id="flightResults"></div>
+
+<script src="app.js"></script>
+<script>
+if ('serviceWorker' in navigator) {
+navigator.serviceWorker.register('sw.js').then(()=>console.log('SW registered')).catch(err=>console.log(err));
+}
+</script>
+</body>
+</html>
